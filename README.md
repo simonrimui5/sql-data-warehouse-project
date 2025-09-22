@@ -26,6 +26,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
+
 These insights empower stakeholders with keyiness metrics, enabling strategic decision-making.
 
 ---
