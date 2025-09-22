@@ -35,4 +35,4 @@ This project is licensed under the [MIT License] (LICENSE). You are free to use,
 
 ## About Me
 
-Hi there! I'm **Simon imui**. I'm a data analyst wh is very passionate about uncovering actionable insights from rawa data to drive strategic decision making  
+Hi there! I'm **Simon imui**. I'm a data analyst who is very passionate about uncovering actionable insights from raw data to drive strategic decision making  
