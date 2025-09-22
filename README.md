@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio proje Data Warehouse from Scratch | Full Hands-On Data Engineering Project highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project Data Warehouse from Scratch | Full Hands-On Data Engineering Project highlights industry best practices in data engineering and analytics.
 
 ---
 
@@ -33,6 +33,6 @@ These insights empower stakeholders with keyiness metrics, enabling strategic de
 ## License
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-##About Me
+## About Me
 
 Hi there! I'm **Simon imui**. I'm a data analyst wh is very passionate about uncovering actionable insights from rawa data to drive strategic decision making  
