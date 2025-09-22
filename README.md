@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project Data Warehouse from Scratch | Full Hands-On Data Engineering Project highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 
@@ -27,7 +27,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
-These insights empower stakeholders with keyiness metrics, enabling strategic decision-making.
+These insights empower stakeholders with key metrics, enabling strategic decision-making.
 
 ---
 
