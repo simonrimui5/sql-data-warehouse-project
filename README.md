@@ -32,6 +32,7 @@ These insights empower stakeholders with keyiness metrics, enabling strategic de
 
 ## License
 This project is licensed under the [MIT License] (LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 ##About Me
-I
+
 Hi there! I'm **Simon imui**. I'm a data analyst wh is very passionate about uncovering actionable insights from rawa data to drive strategic decision making  
